@@ -1,0 +1,1 @@
+2025-04-13 22:29:36,775 - app.main - ERROR - Error initializing the database: [Errno 11001] getaddrinfo failed
